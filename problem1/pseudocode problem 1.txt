@@ -1,0 +1,5 @@
+Membuat input angka.
+Cek apakah angka itu termasuk bilangan prima atau bukan.
+Jika iya maka bisa dicek lagi apakah angka itu termasuk bilangan keren.
+Jika dua kondisi itu benar, bisa menghasilkan output "YA".
+Jika tidak maka menghasilkan output "TIDAK".
